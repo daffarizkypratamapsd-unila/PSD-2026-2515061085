@@ -170,3 +170,5 @@ OUTPUT :
 <img width="1707" height="287" alt="Screenshot 2026-04-28 231647" src="https://github.com/user-attachments/assets/9d01ada5-5ebd-468a-b9ca-3640d87e9c41" />
 <img width="1721" height="292" alt="Screenshot 2026-04-28 231731" src="https://github.com/user-attachments/assets/03f8100c-9b00-48ae-9189-8babfbe67be6" />
 <img width="1717" height="276" alt="Screenshot 2026-04-28 231749" src="https://github.com/user-attachments/assets/b932f46d-b3da-478a-9913-17675bf3e730" />
+
+Link Video Presentasi Youtube : https://youtu.be/qo-Y3AAGLd8
