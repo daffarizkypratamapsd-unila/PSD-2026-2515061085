@@ -22,3 +22,109 @@ arr[i] = arr[j]
 
 Mengganti nilai index i dengan nilai dari index j.
 
+arr[j] = temp
+
+Mengisi index j dengan nilai yang tadi disimpan di temp.
+
+def bubble_sort(arr, n):
+
+Mendefinisikan fungsi untuk mengurutkan array menggunakan Bubble Sort.
+
+for i in range(n - 1):
+
+Perulangan luar untuk menentukan jumlah tahap sorting (n-1 tahap).
+
+for j in range(n - i - 1):
+
+Perulangan dalam untuk membandingkan elemen yang bersebelahan.
+
+if arr[j][1] < arr[j + 1][1]:
+
+Membandingkan tinggi pohon, jika lebih kecil dari sebelahnya maka perlu ditukar (descending).
+
+tukar(arr, j, j + 1)
+
+Memanggil fungsi tukar untuk menukar posisi kedua elemen.
+
+def main():
+
+Fungsi utama program.
+
+try:
+n = int(input("Masukkan jumlah pohon sawit: "))
+
+Meminta input jumlah pohon dari user.
+
+except ValueError:
+print("Input tidak valid!")
+return
+
+Menangani error jika input bukan angka.
+
+arr = []
+
+Membuat list kosong untuk menyimpan data pohon.
+
+print("Masukkan tinggi pohon (dalam meter):")
+
+Menampilkan instruksi ke user.
+
+for i in range(n):
+
+Perulangan untuk input data sebanyak n.
+
+while True:
+
+Loop agar input valid (akan mengulang jika salah).
+
+try:
+tinggi = int(input(f"Pohon ke-{i+1}: "))
+
+Mengambil input tinggi pohon ke-(i+1).
+
+arr.append((i + 1, tinggi))
+
+Menyimpan data dalam bentuk tuple.
+
+break
+
+Keluar dari loop jika input valid.
+
+except ValueError:
+print("Input tidak valid, silakan masukkan angka!")
+
+Menangani jika user salah input.
+
+print("\nData sebelum diurutkan:")
+print(arr)
+
+Menampilkan data sebelum sorting.
+
+bubble_sort(arr, n)
+
+Memanggil fungsi Bubble Sort untuk mengurutkan data.
+
+print("\nHasil pengurutan tinggi pohon (tertinggi ke terendah):")
+
+Menampilkan judul output hasil sorting.
+
+for nomor, tinggi in arr:
+
+Loop untuk membaca isi tuple.
+
+print(f"Pohon ke-{nomor} ({tinggi}m)")
+
+Menampilkan output sesuai format yang diinginkan.
+
+if __name__ == "__main__":
+
+Mengecek apakah file dijalankan langsung (bukan di-import).
+
+main()
+
+Memanggil fungsi main() untuk menjalankan program.
+
+
+Output :
+
+<img width="1676" height="434" alt="Screenshot 2026-05-04 184352" src="https://github.com/user-attachments/assets/da127a2e-1fdd-4a45-8eda-b08b69374f56" />
