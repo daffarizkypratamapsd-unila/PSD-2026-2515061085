@@ -11,11 +11,14 @@ Setelah semua data terkumpul, proses pengurutan dilakukan dengan metode Bubble S
 Penjelasan Coding :
 
 def tukar(arr, i, j):
+
 Mendefinisikan fungsi untuk menukar posisi dua elemen dalam array.
 
 temp = arr[i]
+
 Menyimpan sementara nilai pada index i.
 
 arr[i] = arr[j]
+
 Mengganti nilai index i dengan nilai dari index j.
 
