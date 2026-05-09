@@ -117,3 +117,8 @@ main()
 
 Menjalankan fungsi main() sehingga seluruh program dapat berjalan.
 
+Output :
+
+<img width="1652" height="140" alt="Screenshot 2026-05-09 180020" src="https://github.com/user-attachments/assets/0670af46-13d4-4b91-bcf4-756d3d5ccf45" />
+
+Link Video Presentasi Youtube : 
