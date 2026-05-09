@@ -5,7 +5,7 @@ Program ini dibuat untuk membantu petugas gudang dalam mencari nomor barang seca
 Metode Sequential Search Sentinel bekerja dengan menambahkan sementara nilai yang dicari ke bagian akhir list sebagai penanda (sentinel). Teknik ini membuat proses pencarian menjadi lebih efisien karena perulangan tidak perlu terus-menerus memeriksa batas akhir array. Setelah proses pencarian selesai, nilai sentinel akan dihapus kembali sehingga data tetap seperti semula. Program juga dilengkapi dengan validasi input agar pengguna hanya dapat memasukkan angka, sehingga mengurangi kemungkinan terjadinya kesalahan saat program dijalankan.
 
 <img width="1671" height="265" alt="Screenshot 2026-05-09 174730" src="https://github.com/user-attachments/assets/a9780d87-7afb-4d12-afae-e48f7a327f5e" />
-<img width="1677" height="542" alt="Screenshot 2026-05-09 174753" src="https://github.com/user-attachments/assets/d3be2861-ff2d-4ab1-a30c-9f849ec7d307" />
+<img width="1671" height="587" alt="Screenshot 2026-05-09 174901" src="https://github.com/user-attachments/assets/38e787e5-6591-440d-ada3-448391a64e27" />
 
 Penjelasan Coding :
 
