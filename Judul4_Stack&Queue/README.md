@@ -322,4 +322,4 @@ Output :
 <img width="1712" height="364" alt="Screenshot 2026-05-16 185014" src="https://github.com/user-attachments/assets/4091943f-d991-49f4-aefe-e44f1377cd19" />
 <img width="1721" height="213" alt="Screenshot 2026-05-16 185029" src="https://github.com/user-attachments/assets/d2412055-f76f-4f2b-8fc5-06b7626de44c" />
 
-Link Video Youtube Presentasi : 
+Link Video Youtube Presentasi : https://youtu.be/WhrrViDrK94
