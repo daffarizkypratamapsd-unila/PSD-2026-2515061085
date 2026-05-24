@@ -696,3 +696,12 @@ Mengecek apakah file dijalankan langsung.
 main()
 
 Menjalankan function main().
+
+Output :
+
+<img width="1668" height="819" alt="Screenshot 2026-05-24 105937" src="https://github.com/user-attachments/assets/fd7950d9-923f-4c36-9a72-95798312a7b8" />
+<img width="1671" height="796" alt="Screenshot 2026-05-24 105950" src="https://github.com/user-attachments/assets/f9fbd71d-88d2-4b03-ac62-55d41a405199" />
+<img width="1678" height="743" alt="Screenshot 2026-05-24 110001" src="https://github.com/user-attachments/assets/9793966a-afe2-430d-ba5b-4437164fea6c" />
+<img width="1676" height="546" alt="Screenshot 2026-05-24 110020" src="https://github.com/user-attachments/assets/0fd6fecc-3636-4711-b9da-9cd2df2b25c4" />
+
+Link Presentasi Youtube : 
