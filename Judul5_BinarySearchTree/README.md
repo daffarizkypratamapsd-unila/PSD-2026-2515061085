@@ -704,4 +704,4 @@ Output :
 <img width="1678" height="743" alt="Screenshot 2026-05-24 110001" src="https://github.com/user-attachments/assets/9793966a-afe2-430d-ba5b-4437164fea6c" />
 <img width="1676" height="546" alt="Screenshot 2026-05-24 110020" src="https://github.com/user-attachments/assets/0fd6fecc-3636-4711-b9da-9cd2df2b25c4" />
 
-Link Presentasi Youtube : 
+Link Presentasi Youtube : https://youtu.be/W3Rp-eeiXAY
