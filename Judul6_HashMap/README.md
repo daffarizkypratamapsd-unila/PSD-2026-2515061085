@@ -260,3 +260,7 @@ peternakan.tampilkan_data()
 
 Menampilkan data setelah penghapusan
 
+Output :
+<img width="1826" height="686" alt="Screenshot 2026-06-09 171400" src="https://github.com/user-attachments/assets/a05fe5da-8cb4-4403-b466-33fa5012cba4" />
+
+Link Video Presentasi Youtube :
